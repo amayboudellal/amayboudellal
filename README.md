@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amayboudellal
+- 👀 I’m interested in the electric grid, green energy and programing
+- 🌱 I’m currently learning python with focus on the pandapower package
+- 📫 Reach me at amay@utiligize.com
