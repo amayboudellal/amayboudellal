@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amayboudellal
-- 👀 I’m interested in the electric grid, green energy and programing
-- 🌱 I’m currently learning python with focus on the pandapower package
+- 👀 I’m interested in the electric grid, green energy and data analysis
+- 🌱 I’m using the python pandapower and pandapipes packages to model electric and district heating grids
 - 📫 Reach me at amay@utiligize.com
